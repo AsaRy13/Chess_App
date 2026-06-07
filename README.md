@@ -8,7 +8,7 @@ The reason why I created this app was so I could learn a little bit more about w
 
 Also, I made a video demoing my version of the app and the AI version where the pieces can move:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kcEEePmR0Oo)
 
 # Development Environment
 
