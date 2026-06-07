@@ -69,6 +69,7 @@ fun Chess(name: String, modifier: Modifier = Modifier) {
         arrayOf("White Rook", "White Knight", "White Bishop", "White Queen", "White King", "White Bishop", "White Knight", "White Rook")
     )
 
+    //AI helped me realize that I needed to put modifier = modifier here so the tiles wouldn't inherit the scaffold padding.
     Row(modifier = modifier) {
         // I'm still new at Jetpack Compose, so at first this code block was just a bunch of
         // repetitive code. Then I asked AI for help with a different issue and one of the things
